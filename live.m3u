@@ -30,7 +30,7 @@ http://198.195.239.50:8095/atnBangla/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="NTV" tvg-logo="https://i.postimg.cc/W3tW3B1P/NTV-(Bangladesh)-logo-svg.png" group-title="Entertainment", NTV
 http://198.195.239.50:8095/ntv/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-name="Dipto Tv" tvg-logo="https://images.seeklogo.com/logo-png/51/1/deepto-tv-logo-png_seeklogo-513994.png" group-title="Entertainment", DIPTO TV
+#EXTINF: -1 tvg-name="Dipto Tv" tvg-logo="https://i.postimg.cc/CKr7Wcsp/deepto-tv-logo-png-seeklogo-513994.png" group-title="Entertainment", DIPTO TV
 http://198.195.239.50:8095/deepto/tracks-v1a1/mono.m3u8
 
 
