@@ -88,7 +88,7 @@ http://198.195.239.50:8095/jamunaTv/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/channel24/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="INDEPENDENT" tvg-logo="http://toffe.top/images/independenttv.png" group-title="News", INDEPENDENT
 
-#EXTINF: -1 tvg-name="SOMOY TV" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV
+#EXTINF: -1 tvg-name="SOMOY TV" tvg-logo="https://i.postimg.cc/hjg4R0D8/samaya-ta-bha-ra-la-ga-svg.png" group-title="News", SOMOY TV
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="DBC NEWS" tvg-logo="http://toffe.top/images/dbc.png" group-title="News", DBC NEWS
 
