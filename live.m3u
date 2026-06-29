@@ -82,7 +82,7 @@ http://198.195.239.50:8095/deepto/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/atnNews/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="EKATTOR TV" tvg-logo="https://i.postimg.cc/fTMdfxYK/Ekattor-TV-logo.jpg" group-title="News", EKATTOR TV
 http://198.195.239.50:8095/ekattorTv/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="JAMUNA TV" tvg-logo="https://jamuna.tv/wp-content/themes/jtv-news/img/logo.png" group-title="News", JAMUNA TV
+#EXTINF: -1 tvg-name="JAMUNA TV" tvg-logo="https://i.postimg.cc/zXDLgqr1/Jamuna-TV-logo-svg.png" group-title="News", JAMUNA TV
 http://198.195.239.50:8095/jamunaTv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="CHANAL 24" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720703141689.png" group-title="News", CHANAL 24
 http://198.195.239.50:8095/channel24/tracks-v1a1/mono.m3u8
