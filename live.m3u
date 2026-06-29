@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF: -1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1024px-Bangladesh_Television_Logo.svg.png" group-title="Entertainment", BTV
+#EXTINF: -1 tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1280px-Bangladesh_Television_Logo.svg.png" group-title="Entertainment", BTV
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="BTV WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="Entertainment", BTV WORLD
 
