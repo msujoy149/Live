@@ -77,17 +77,17 @@
 
 
 #EXTINF: -1 tvg-name="ATN NEWS" tvg-logo="http://toffe.top/images/atnnews.png" group-title="Entertainment", ATN NEWS
-
+http://198.195.239.50:8095/atnNews/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="EKATTOR TV" tvg-logo="http://toffe.top/images/ekattortv.png" group-title="News", EKATTOR TV
-
+http://198.195.239.50:8095/ekattorTv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="JAMUNA TV" tvg-logo="https://jamuna.tv/wp-content/themes/jtv-news/img/logo.png" group-title="News", JAMUNA TV
-
+http://198.195.239.50:8095/jamunaTv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="CHANAL 24" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720703141689.png" group-title="News", CHANAL 24
-
+http://198.195.239.50:8095/channel24/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="INDEPENDENT" tvg-logo="http://toffe.top/images/independenttv.png" group-title="News", INDEPENDENT
 
 #EXTINF: -1 tvg-name="SOMOY TV" tvg-logo="http://toffe.top/images/Somoytv.png" group-title="News", SOMOY TV
-
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="DBC NEWS" tvg-logo="http://toffe.top/images/dbc.png" group-title="News", DBC NEWS
 
 #EXTINF: -1 tvg-name="REPUBLIC BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Republic_Bangla_logo.png" group-title="News", REPUBLIC BANGLA
@@ -273,7 +273,7 @@
 #EXTINF: -1 tvg-name="STAR SPORTS HINDI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgljpGbXIQAIf5Gv_NjlMA2FmoBeUwfYnIl8ituNhIAEWBcxd2zfaODolbSbRMxFgyOp1TSk907D9-TMNpM-VMTuFWHV7IZ6WbZuIKrTy0TSCSiBp5Zl6DE7k3PfgqCRbcgjLLoaRuKrj4MkUpIpA9Dt3qLQNjI1qO5jGRTNAIUFMxIEHw7O8aj8LTPBYXJ/s554/images.jpg" group-title="Sports", STAR SPORTS HINDI 
 
 #EXTINF: -1 tvg-name="PTV SPORTS" tvg-logo="http://toffe.top/images/ptv.jpg" group-title="Sports", PTV SPORTS
-
+http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="SPORTS 18" tvg-logo="http://toffe.top/images/sports18.png" group-title="Sports", SPORTS 18
 
 #EXTINF: -1 tvg-name="BEN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="Sports", BEN SPORTS 3
