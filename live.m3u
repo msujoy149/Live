@@ -86,11 +86,11 @@ http://198.195.239.50:8095/ekattorTv/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/jamunaTv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="CHANAL 24" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720703141689.png" group-title="News", CHANAL 24
 http://198.195.239.50:8095/channel24/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="INDEPENDENT" tvg-logo="http://toffe.top/images/independenttv.png" group-title="News", INDEPENDENT
+#EXTINF: -1 tvg-name="INDEPENDENT" tvg-logo="https://i.postimg.cc/MpDKnS0t/Independent-tv.png" group-title="News", INDEPENDENT
 
 #EXTINF: -1 tvg-name="SOMOY TV" tvg-logo="https://i.postimg.cc/hjg4R0D8/samaya-ta-bha-ra-la-ga-svg.png" group-title="News", SOMOY TV
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-name="DBC NEWS" tvg-logo="http://toffe.top/images/dbc.png" group-title="News", DBC NEWS
+#EXTINF: -1 tvg-name="DBC NEWS" tvg-logo="https://i.postimg.cc/Qd4ZLxJk/dbc-news-logo-png.png" group-title="News", DBC NEWS
 
 #EXTINF: -1 tvg-name="REPUBLIC BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Republic_Bangla_logo.png" group-title="News", REPUBLIC BANGLA
 
@@ -98,7 +98,7 @@ http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-name="ABP ANANDA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8_iDvhVFIUbJiYGcKfMMAiwDIV01ZvbHa2QH6AP9U1znTjJ7CP65AFXfnBcdYv5BMxFuqe9F-4AORYDs8GADBmooroK3qLEouMC0CzWbP-ha8Sp-8Dl7z5IOeCbrY_Z8nZynkKr1gIGvkLn4xx35_NMykYxd2eyKoNMZ025Z4wRErmhHIwulzGOPnGHHD/s500/images.jpg" group-title="News", ABP ANANDA
 
-#EXTINF: -1 tvg-name="ZEE 24 GHANTA" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b4/%E0%A6%9C%E0%A6%BF_%E0%A7%A8%E0%A7%AA_%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE_%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="News", ZEE 24 GHANTA
+#EXTINF: -1 tvg-name="ZEE 24 GHANTA" tvg-logo="https://i.postimg.cc/brzmN1zh/images-(1).png" group-title="News", ZEE 24 GHANTA
 
 #EXTINF: -1 tvg-name="TV9 BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjnydA7f2o0kgsXPG4N3tlk4m8PdqMfpUMHC84At31m0-ClX8IkAXB5qlAs6n2gJxI36OOXrE389ezFzgEnY_cx0WrRzJIMKNvhzb0YCTSadW-2aLeH93z7FqzYXG4OpEXtmeuQPzfRWdNNIq45wNSSLZ5GMBiP2EDcAtIIkcN7wfu6vQQPxxUPhN80J8L/s588/images%20(1).jpg" group-title="News", TV9 BANGLA
 
@@ -108,7 +108,7 @@ http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-name="Aaj Tak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="News", AAJ TAK
 
-#EXTINF: -1 tvg-name="DW" tvg-logo="http://toffe.top/images/dwtv.png" group-title="News", DW
+#EXTINF: -1 tvg-name="DW" tvg-logo="https://i.postimg.cc/tJSNqfSW/DW.png" group-title="News", DW
 
 #EXTINF: -1 tvg-name="NDTV" tvg-logo="https://i.ndtvimg.com/i/2016-11/ndtv-india-logo_650x400_71478247761.jpg" group-title="News", NDTV
 
